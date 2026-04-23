@@ -495,7 +495,6 @@ main {
   height: 100%;
   object-fit: cover;
   transition: transform 0.5s ease;
-  filter: grayscale(100%);
 }
 
 .about-profile:hover .about-photo img {
